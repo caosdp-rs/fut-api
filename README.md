@@ -1,11 +1,11 @@
 <!--
-  Title: FIFA 20 WebApp API
-  Description: A simply way to manage your FIFA 20 Ultimate Team with a PHP
+  Title: FIFA 21 WebApp API
+  Description: A simply way to manage your FIFA 21 Ultimate Team with a PHP
   -->
 
-# FIFA 20 WebApp API
+# FIFA 21 WebApp API
 
-Manage your FIFA 20 Ultimate Team using this FIFA 20 Ultimate Team API.
+Manage your FIFA 21 Ultimate Team using this FIFA 21 Ultimate Team API.
 Written solely in PHP
 
 [![paypal](https://img.shields.io/badge/Donate-Paypal-blue.svg)](http://paypal.me/nloges)
@@ -21,7 +21,7 @@ Written solely in PHP
 
 ## Installing
 
-The recommended way to install FIFA 20 WebApp API is through
+The recommended way to install FIFA 21 WebApp API is through
 [Composer](http://getcomposer.org).
 
 ```bash
@@ -38,8 +38,8 @@ Don't be shy. Feel free to contribute and create pull-requests. There's a lot to
 
 Login parameters:
 
-- email: [string] email used for logging into the FIFA 20 WebApp
-- password: [string] password used for logging into the FIFA 20 WebApp
+- email: [string] email used for logging into the FIFA 21 WebApp
+- password: [string] password used for logging into the FIFA 21 WebApp
 - platform: [string] pc/ps4/ps4/xbox/xbox360
 - code: [string] email code for two-step verification (make sure to use string if your code starts with 0).
 
